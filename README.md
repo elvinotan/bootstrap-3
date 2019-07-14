@@ -301,6 +301,18 @@ Cara menggunakan Corusel, aga jelimet tapi lihat saja classnya
 
 # Bootstrap Tutorial #26 - Modal Pop-ups
 
+```
+Penting !!! cara menggunakan modal popup
+```
+
+![Modal](https://github.com/elvinotan/bootstrap-3/blob/master/images/modal.png)
+
 # Bootstrap Tutorial #27 - Accordions
+
+```
+Penting !!! cara menggunakan modal acordion
+```
+
+![Acordion](https://github.com/elvinotan/bootstrap-3/blob/master/images/acordion.png)
 
 # Bootstrap Tutorial #28 - Bootstrap Themes
