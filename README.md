@@ -43,6 +43,11 @@ Bootstrap butuh jQuery, bila menggunakan recompile js
 # Bootstrap Tutorial #03 - Bootstrap Grid System
 
 ```
+Grids
+- Bootstrap come with a 12-column grid system
+- We add our content into the 'rows' and 'columns' of this grid using Bootstrap's CSS classes
+- Bootstrap will take care of the responsive work for us
+
 Containers, Row dan Columns
 - Containers surround the whole section of row and columns
 - Rows represent a horizontal line of elements
