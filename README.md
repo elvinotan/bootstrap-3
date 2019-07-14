@@ -218,11 +218,19 @@ nav-tabs = Class navigasi berbentuk tabs
 nav-pills = Class navigasi berbentuk pills
 nav-stacked = Class agar menu berbentuk Vertical
 nav-justified = Class agar menu berbentuk Horizontal dan memiliki with yang sama
+active = Class pada li, untuk menunjukan menu yang active yang mana
 ```
 
 ![TabsPills](https://github.com/elvinotan/bootstrap-3/blob/master/images/tabsnpill.png)
 
 # Bootstrap Tutorial #17 - Navbars
+
+```
+Mirip dgn Tabs and Pill tapi ini lebih di peruntukan Navigasi besar
+Untuk cara pakai lihat class di bawh ini
+```
+
+![Nav](https://github.com/elvinotan/bootstrap-3/blob/master/images/nav.png)
 
 # Bootstrap Tutorial #18 - Navbar Classes
 
