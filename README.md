@@ -85,6 +85,27 @@ Example :
 
 # Bootstrap Tutorial #06 - Columns
 
+```
+Columns
+- We assign elements within a row, a column-width
+- We do this by using bootstrap classes
+    col-{size}-{number}
+    {size} =  the size of the viewport which you are targeting
+    {number} = numbre of columns you want element to span
+```
+
+```
+Column Size
+- Sizes :
+    xs (<768), sm (>=768), md (>=992), lg (>=1200)
+- Number of Columns :
+    any interger between 1 and 12
+- Example
+    "cols-ex-12" or "col-md-6"
+
+- Tips : Selalu mulai dari xs ke lg
+```
+
 # Bootstrap Tutorial #07 - Column Offsetting
 
 # Bootstrap Tutorial #08 - Push & Pull
