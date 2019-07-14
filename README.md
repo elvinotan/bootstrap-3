@@ -269,7 +269,19 @@ Style untuk merapihkan form, lihat contoh di bawah
 
 # Bootstrap Tutorial #22 - Badges & Labels
 
+```
+Cara menggunakan badge
+```
+
+![Form](https://github.com/elvinotan/bootstrap-3/blob/master/images/badge.png)
+
 # Bootstrap Tutorial #23 - Panels
+
+```
+Cara menggunakan panel dan classnya
+```
+
+![Form](https://github.com/elvinotan/bootstrap-3/blob/master/images/badge.png)
 
 # Bootstrap Tutorial #24 - Tooltips
 
