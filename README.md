@@ -252,6 +252,13 @@ untuk mobile kita akan buat sebuah button di sisi kanan atas yang kalo di click 
 
 # Bootstrap Tutorial #20 - Jumbotrons
 
+```
+Jumbotron seperti article tapi yang eye catching sehingga menarik perhatian,
+cukup di wrap dalam div dan beri class jumbotron
+```
+
+![JumboTron](https://github.com/elvinotan/bootstrap-3/blob/master/images/jumbotron.png)
+
 # Bootstrap Tutorial #21 - Styling Forms
 
 # Bootstrap Tutorial #22 - Badges & Labels
