@@ -239,7 +239,7 @@ Ternyata untuk nav memiliki header yaitu bagian di sebelah kirin dan footer di b
 Perhatian gambar di bawah untuk mencari lebih tau
 ```
 
-![NavBarClass](https://github.com/elvinotan/bootstrap-3/blob/master/images/navbarclass.png)
+![NavBarClass](https://github.com/elvinotan/bootstrap-3/blob/master/images/navbrclass.png)
 
 # Bootstrap Tutorial #19 - Mobile Navbars
 
