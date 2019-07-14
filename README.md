@@ -119,6 +119,15 @@ Artinya pasang offset 2 grid di kiri, data 8 grid dan offset 2 grid di kanan
 
 # Bootstrap Tutorial #08 - Push & Pull
 
+```
+Push: Mendorong element ke kanan sejumlah grid yang di define
+Pull : Menarik element ke kiri sejumlah grid yang di define
+
+Bla oprasional push pull berada di tengah, dan untuk screen kecil dan besar mau menggunakan original grid, maka kita harus mereset kembali push dan pull
+```
+
+![PushPull](https://github.com/elvinotan/bootstrap-3/blob/master/images/pushpull.png)
+
 # Bootstrap Tutorial #09 - Clearfix
 
 # Bootstrap Tutorial #10 - Text Styles
