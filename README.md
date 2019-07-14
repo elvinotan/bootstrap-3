@@ -173,6 +173,17 @@ Class button disable : disabled
 
 # Bootstrap Tutorial #13 - Bootstrap Image Styles
 
+```
+Image memiliki bebrapa style mungkin di kita perlukan :
+img-responsive : Bila dalam row ada image yang saling overlap gunakan class ini
+img-rounded : Membuat gambar menjadi kotak dgn pinggil2nya rounded
+img-circle : Membuat gambar menjadi bulat
+img-thumbnail : Membuat small border yang mengelilingi gambar
+center-block : Membuat gambar center align
+```
+
+![Image](https://github.com/elvinotan/bootstrap-3/blob/master/images/image.png)
+
 # Bootstrap Tutorial #14 - Visibility
 
 # Bootstrap Tutorial #15 - Drop-down Menu's
