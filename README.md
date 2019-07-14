@@ -293,6 +293,12 @@ Cara menggunakan tooltips
 
 # Bootstrap Tutorial #25 - Carousels
 
+```
+Cara menggunakan Corusel, aga jelimet tapi lihat saja classnya
+```
+
+![Corusel](https://github.com/elvinotan/bootstrap-3/blob/master/images/corusel.png)
+
 # Bootstrap Tutorial #26 - Modal Pop-ups
 
 # Bootstrap Tutorial #27 - Accordions
