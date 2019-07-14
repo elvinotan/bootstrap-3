@@ -234,6 +234,13 @@ Untuk cara pakai lihat class di bawh ini
 
 # Bootstrap Tutorial #18 - Navbar Classes
 
+```
+Ternyata untuk nav memiliki header yaitu bagian di sebelah kirin dan footer di bagian kanan
+Perhatian gambar di bawah untuk mencari lebih tau
+```
+
+![NavBarClass](https://github.com/elvinotan/bootstrap-3/blob/master/images/navbarclass.png)
+
 # Bootstrap Tutorial #19 - Mobile Navbars
 
 # Bootstrap Tutorial #20 - Jumbotrons
