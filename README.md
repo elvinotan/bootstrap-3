@@ -108,6 +108,15 @@ Column Size
 
 # Bootstrap Tutorial #07 - Column Offsetting
 
+```
+Offset column adalah space grid sisi kiri dan sisi kanan contoh
+Nilai offset harus di hitung sebagai grid contoh :
+<div class='col-xs-offset-2 col-xs-8'> Data </div>
+Artinya pasang offset 2 grid di kiri, data 8 grid dan offset 2 grid di kanan
+```
+
+![Offseting](https://github.com/elvinotan/bootstrap-3/blob/master/images/offseting.png)
+
 # Bootstrap Tutorial #08 - Push & Pull
 
 # Bootstrap Tutorial #09 - Clearfix
