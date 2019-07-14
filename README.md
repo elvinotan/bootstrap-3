@@ -199,6 +199,16 @@ visible-md-inline-block: Menampilkan saat medium dan menjadi horizontal dgn stra
 
 # Bootstrap Tutorial #15 - Drop-down Menu's
 
+```
+Untuk dropdown component bootstrap tidak menggunakna component select, tetapi menggunakan component button dan ul>li
+untuk menggunakan dropdown button dan ul harus di bungkus dengan div dgn class dropdown selai itu ada juga class:
+a. dropdown-togger : togger button class saat di click dan saat release
+b. dropdown-menu : style member yang akan muncul saat button di click
+c. dropdown-header : Header pada bagian option
+```
+
+![DropDown](https://github.com/elvinotan/bootstrap-3/blob/master/images/dropdown.png)
+
 # Bootstrap Tutorial #16 - Tabs and Pills (navigation)
 
 # Bootstrap Tutorial #17 - Navbars
