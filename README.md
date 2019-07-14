@@ -56,7 +56,32 @@ Containers, Row dan Columns
 
 # Bootstrap Tutorial #04 - Bootstrap Containers
 
+```
+Fix-Container - "container"
+a. Has a fix width, which changes at certian brakepoints.
+b. Has a built-in padding of 15px all the way around.
+
+Fluid-Continer - "container-fluid"
+a. Has a fluid width, which strech to 100%, of it's parent elements
+b. Has a built-in padding of 15px all the way around.
+
+"container" : Memiliki ukuran yang fix, dan bila screen berubah dia akan berubah tp dgn ukuran tertentu saja tidak dinamais
+"container-fluid" : Memiliki ukuran yang dinamis, yang SELALU mengikuti ukuran parentnya.
+
+Bila kita mau menggunakan 12 Grid System, kita harus wrap it dengan container
+```
+
 # Bootstrap Tutorial #05 - Rows
+
+```
+Boot strap menggunakna 12 Grid System
+col-xs-12 => Untuk Extra small screen terapkan 12 column
+col-sm-6 => Untuk Small screen terapkan 6 column
+col-md-4 => Untuk Medium screen terapkan 4 column
+```
+
+Example :
+![Rows](https://github.com/elvinotan/bootstrap-3/blob/master/images/rows.png)
 
 # Bootstrap Tutorial #06 - Columns
 
