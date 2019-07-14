@@ -186,6 +186,17 @@ center-block : Membuat gambar center align
 
 # Bootstrap Tutorial #14 - Visibility
 
+```
+Visibility
+digunaan untuk show and hide compoennt
+hidden-xs : Bila mencapai ukuran extra small maka akan di hide, selain itu show
+hidden-lg : Bila mencapai ukuran large maka akan di hide, selain itu show
+
+visible-md : Bila ukuran mencapai medium akan di tampilkan, selain itu hide
+visible-md-inline : Menampilkan saat medium dan menjadi horizontal, dengan respect ke size
+visible-md-inline-block: Menampilkan saat medium dan menjadi horizontal dgn strach
+```
+
 # Bootstrap Tutorial #15 - Drop-down Menu's
 
 # Bootstrap Tutorial #16 - Tabs and Pills (navigation)
