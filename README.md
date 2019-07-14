@@ -211,6 +211,17 @@ c. dropdown-header : Header pada bagian option
 
 # Bootstrap Tutorial #16 - Tabs and Pills (navigation)
 
+```
+Tab dan Pill di gunakan untuk keperluan menu, intinya membuat ul dan li, lalu gunakan class untuk decorasi</br>
+nac = Class dasar navigasi
+nav-tabs = Class navigasi berbentuk tabs
+nav-pills = Class navigasi berbentuk pills
+nav-stacked = Class agar menu berbentuk Vertical
+nav-justified = Class agar menu berbentuk Horizontal dan memiliki with yang sama
+```
+
+![TabsPills](https://github.com/elvinotan/bootstrap-3/blob/master/images/tabsnpill.png)
+
 # Bootstrap Tutorial #17 - Navbars
 
 # Bootstrap Tutorial #18 - Navbar Classes
