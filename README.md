@@ -316,3 +316,10 @@ Penting !!! cara menggunakan modal acordion
 ![Acordion](https://github.com/elvinotan/bootstrap-3/blob/master/images/acordion.png)
 
 # Bootstrap Tutorial #28 - Bootstrap Themes
+
+```
+Dengan bootstrap kita bisa ganti theme dengan mudah tinggal download themes dari website di bawah ini
+download dan include ke html otomatis langsung change
+```
+
+![Themes](https://github.com/elvinotan/bootstrap-3/blob/master/images/theme.png)
