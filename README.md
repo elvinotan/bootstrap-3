@@ -130,6 +130,16 @@ Bla oprasional push pull berada di tengah, dan untuk screen kecil dan besar mau 
 
 # Bootstrap Tutorial #09 - Clearfix
 
+```
+Meski ukuan colum 6 misalnya, artinya pairing kanan dan kiri dua column,
+tampilannya tidak selalu sesuai dgn yang kita inginkan, hal ini di karenakan ukuran height yang berbeda
+Untuk memperbaiki ini kita menggunakan command clearfix, untuk element yang bermasalah
+
+<div class='clearfix'></div>
+atau pake custom script
+thumb:nth-child(odd){clear: both;}
+```
+
 # Bootstrap Tutorial #10 - Text Styles
 
 # Bootstrap Tutorial #11 - List Styles
