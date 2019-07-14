@@ -1,5 +1,7 @@
 # bootstrap-3
 
+# Bootstrap Tutorial #01 - Introduction to Bootstrap
+
 ```
 Bootstrap is a framework
 - Frameworks are designed to help do a lot of the heavy lifting associated with certain tasks
@@ -28,11 +30,22 @@ What you need to know
 - Responsive Development
 ```
 
-# Bootstrap Tutorial #01 - Introduction to Bootstrap
-
 # Bootstrap Tutorial #02 - How to Use Bootstrap in Your Project
 
+```
+Using CDN
+
+Bootstrap butuh jQuery
+```
+
 # Bootstrap Tutorial #03 - Bootstrap Grid System
+
+```
+Containers, Row dan Columns
+- Containers surround the whole section of row and columns
+- Rows represent a horizontal line of elements
+- Columns represent the horizontal space that elements take up in a row
+```
 
 # Bootstrap Tutorial #04 - Bootstrap Containers
 
