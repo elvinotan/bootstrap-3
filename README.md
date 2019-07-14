@@ -261,6 +261,12 @@ cukup di wrap dalam div dan beri class jumbotron
 
 # Bootstrap Tutorial #21 - Styling Forms
 
+```
+Style untuk merapihkan form, lihat contoh di bawah
+```
+
+![Form](https://github.com/elvinotan/bootstrap-3/blob/master/images/form.png)
+
 # Bootstrap Tutorial #22 - Badges & Labels
 
 # Bootstrap Tutorial #23 - Panels
