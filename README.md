@@ -1,5 +1,33 @@
 # bootstrap-3
 
+```
+Bootstrap is a framework
+- Frameworks are designed to help do a lot of the heavy lifting associated with certain tasks
+- The Bootstrap framework is designed to make creating responsive, feature-rich websites mch easier and comes with manya helpful features
+- We have to write our code the way the Bootstrap framework wants us to take advantae of the features
+```
+
+```
+Bootstrap features
+- Fluid and Fixed grid system
+- Carousels
+- Drop down menus
+- Modals / Pop-ups
+```
+
+```
+Mobile First Approach
+- Assume you want to create a mobile friendly website
+- Websites you make with Bootstrap will be responsive in nature
+```
+
+```
+What you need to know
+- HTML & CSS
+- Javascript
+- Responsive Development
+```
+
 # Bootstrap Tutorial #01 - Introduction to Bootstrap
 
 # Bootstrap Tutorial #02 - How to Use Bootstrap in Your Project
