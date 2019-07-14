@@ -161,6 +161,16 @@ dl-horizontal : Untuk membuat pairing bagus buat form nih, perhatikan tagnya, li
 
 # Bootstrap Tutorial #12 - Button Styles
 
+```
+Untuk buttton memiliki beberapa stuktur class
+Class dasar button : btn
+Class tampilan button : btn-default, btn-primary, btn-info, btn-warning, btn-danger, btn-success
+Class button di press : active
+Class button disable : disabled
+```
+
+![Button](https://github.com/elvinotan/bootstrap-3/blob/master/images/button.png)
+
 # Bootstrap Tutorial #13 - Bootstrap Image Styles
 
 # Bootstrap Tutorial #14 - Visibility
