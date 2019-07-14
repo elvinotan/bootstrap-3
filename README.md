@@ -151,6 +151,14 @@ Bila kita menggunakan boostrap, bootstrap sendiri memiliki class bawahaan yang d
 
 # Bootstrap Tutorial #11 - List Styles
 
+```
+list-inline : Untuk menjajarkannya ke kanan, tag ul maupun ol
+dl-horizontal : Untuk membuat pairing bagus buat form nih, perhatikan tagnya, lihat contoh di bawah
+
+```
+
+![ListStyle](https://github.com/elvinotan/bootstrap-3/blob/master/images/liststyle.png)
+
 # Bootstrap Tutorial #12 - Button Styles
 
 # Bootstrap Tutorial #13 - Bootstrap Image Styles
