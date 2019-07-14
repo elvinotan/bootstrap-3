@@ -285,6 +285,12 @@ Cara menggunakan panel dan classnya
 
 # Bootstrap Tutorial #24 - Tooltips
 
+```
+Cara menggunakan tooltips
+```
+
+![ToolTips](https://github.com/elvinotan/bootstrap-3/blob/master/images/tooltip.png)
+
 # Bootstrap Tutorial #25 - Carousels
 
 # Bootstrap Tutorial #26 - Modal Pop-ups
