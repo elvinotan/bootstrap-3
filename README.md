@@ -142,6 +142,13 @@ thumb:nth-child(odd){clear: both;}
 
 # Bootstrap Tutorial #10 - Text Styles
 
+```
+Bila kita menggunakan boostrap, bootstrap sendiri memiliki class bawahaan yang dapat kita gunakan contoh :
+
+<span class="h1">boostrap programing</span>
+<p class="lean">ini adalah class yang bertipe article</p>
+```
+
 # Bootstrap Tutorial #11 - List Styles
 
 # Bootstrap Tutorial #12 - Button Styles
